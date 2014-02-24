@@ -7,7 +7,11 @@ import java.util.*;
 
 import static java.time.temporal.TemporalAdjusters.*;
 
-public class Main {
+public class Java8DateTimeExamples {
+
+	// This class shows the usage of the Java 8 date/time API
+	// For more information have a look at this blog post:
+	// http://www.mscharhag.com/2014/02/java-8-datetime-api.html
 
 	private static void dateTimes() {
 		// dates, e.g. 2014-02-18
