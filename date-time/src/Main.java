@@ -330,8 +330,6 @@ public class Main {
 
 
 	private static void timestamps() {
-		// TODO: min/max values? INSTANT.MAX??
-
 		// current time
 		Instant now = Instant.now();
 
